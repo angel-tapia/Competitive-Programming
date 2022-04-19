@@ -66,7 +66,8 @@ int main(){
         //cout<<actual<<"\n";
         ans = min(ans, actual);
     }
-
+    
+    //Imprimir respuesta
     cout<<ans<<"\n";
 
 
